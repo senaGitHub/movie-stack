@@ -53,7 +53,7 @@ npm run dev
 
 | Home Page | Movie Detail |
 |-----------|--------------|
-| ![Home](./screenshots/home.png) | ![Detail](./screenshots/detail.png) |
+| ![Home](./screenshots/movie-home.png.jpeg) | ![Detail](./screenshots/movie-detail.png.jpeg) |
 
 
 
