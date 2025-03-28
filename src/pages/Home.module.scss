@@ -108,20 +108,20 @@ h1 {
   margin-bottom: 2rem;
 
   span.highlight {
-    color: #38bdf8; // Canlı mavi vurgu
+    color: #38bdf8;
   }
 
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.3); // Sinematik hava
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
 }
 @media (max-width: 900px) {
   .movieGrid {
-    grid-template-columns: repeat(2, 1fr); // tabletlerde 2 kart
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 600px) {
   .movieGrid {
-    grid-template-columns: 1fr; // mobilde 1 kart
+    grid-template-columns: 1fr;
   }
 
   .searchBar {
