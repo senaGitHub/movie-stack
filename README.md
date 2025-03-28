@@ -1,8 +1,13 @@
 
 # 🎬 Movie Stack
 
-A responsive and modern movie search app built with **React + TypeScript** and powered by the **OMDb API**.  
-Search movies, filter by year/type, and view full details — all in a clean, animated single-page app.
+A visually engaging and fully responsive movie discovery application built with **React 19 + TypeScript** and powered by the **OMDb API**.  
+Users can effortlessly search for movies, TV series, or episodes, filter results by year or content type, and dive into detailed pages showing posters, ratings, genres, cast, and more.
+
+Designed with a clean UI, smooth animations (via **Framer Motion**), and built using modern architecture (**Redux Toolkit**, **SCSS Modules**, **Vite**), this SPA delivers a fast and polished user experience — optimized for both desktop and mobile users.
+
+Ideal for showcasing frontend development skills in real-world, API-integrated project scenarios.
+
 
 
 ---
